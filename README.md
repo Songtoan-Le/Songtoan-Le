@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Song Le. I am attending the University of Illinois Chicago (UIC) to earn my computer science degree while working at Amazon. Attending UIC helps me develop my programming skills in Python, C++, and C. 
+
+Working at Amazon Robotics, I enjoy working with automation and seeing how different robotics technologies can streamline repetitive tasks.
+
+Resume Link
+
 <!--
 **Songtoan-Le/Songtoan-Le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
